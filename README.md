@@ -6,8 +6,6 @@ This is a demo for several automl frameworks. Soldering cells use case is used f
 2. H2O
 3. MCFLY
 
-For more info se attached ppt.
-
 ## Getting Started:
 
 1. Install docker (docker & docker-compose commands must be installed).
