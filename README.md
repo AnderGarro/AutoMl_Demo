@@ -1,6 +1,6 @@
 ## AUTOML DEMO
 
-This is a demo for several automl frameworks. Soldering cells use case is used for training supervised models within the chosen frameworks. The decides framewors are:
+This is a demo for several automl frameworks. Industrial use case is used for training supervised models within the chosen frameworks. The decides framewors are:
 
 1. AutoGluon
 2. H2O
